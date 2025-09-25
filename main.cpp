@@ -1,1 +1,1 @@
-this is only here so the repo shows that is has a language :v:
+this is only here so the repo shows that it has a language :v:
